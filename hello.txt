@@ -1,3 +1,7 @@
 11111
 hello world
+<<<<<<< HEAD
 fdfd
+=======
+ddd
+>>>>>>> 698dadde667a0e298c7b2999f198662410aee326
